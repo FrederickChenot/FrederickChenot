@@ -3,4 +3,6 @@
 
 ### Hello 👋
 
-<p style='text-align: center; width: 30%'> <img src="https://media.giphy.com/media/E8BKRmebpiire/giphy.gif"> </p>
+<p style='text-align: center; width: 10%'>
+	<img src="https://media.giphy.com/media/E8BKRmebpiire/giphy.gif">
+</p>
