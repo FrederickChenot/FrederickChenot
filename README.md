@@ -17,7 +17,7 @@
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
 	<img src="https://img.shields.io/badge/Reactjs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 	<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
-	<img src="https://img.shields.io/badge/ajax%20-0074BD?style=for-the-badge&logo=mui&logoColor=white">
+	<img src="https://img.shields.io/badge/ajax%20-0074BD?style=for-the-badge&logoColor=white">
 	</p>
 	<p>
 	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -45,11 +45,11 @@
 </p>
 <p>
 	<a href="https://ovol.netlify.app/trackslist/" target="_blank">
-	<img src="https://img.shields.io/badge/O'vol projet fin d'etude / 5 etudiants pendant 5 semaines-007720?style=for-the-badge&logo=About.me&logoColor=white"></a> 
+	<img src="https://img.shields.io/badge/O'vol projet fin d'etude / 5 etudiants pendant 5 semaines-007720?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </p>
 <p>
 	<a href="https://frederickchenot.github.io/" target="_blank">
-	<img src="https://img.shields.io/badge/PortFolio-0E222B?style=for-the-badge&logo=about.me&logoColor=white"></a> 
+	<img src="https://img.shields.io/badge/PortFolio-0E222B?style=for-the-badge&logo=about.me&logoColor=white"></a>
 </p>
 
 ![Cover](https://github.com/FrederickChenot/FrederickChenot/blob/main/img/francisHalle.jpg)
