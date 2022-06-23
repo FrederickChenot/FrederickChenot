@@ -17,6 +17,7 @@
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
 	<img src="https://img.shields.io/badge/Reactjs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 	<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
+	<img src="https://img.shields.io/badge/ajax%20-0074BD?style=for-the-badge&logo=mui&logoColor=white">
 	</p>
 	<p>
 	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -52,6 +53,9 @@
 </p>
 
 ![Cover](https://github.com/FrederickChenot/FrederickChenot/blob/main/img/francisHalle.jpg)
-<p>
-	Photo:Francis Hallé
-</p>
+
+# Thanks
+
+- Photo: Francis Hallé
+- Badges : Alexandre Sanlim
+- Exemples : Nicolas Brondin Bernard
