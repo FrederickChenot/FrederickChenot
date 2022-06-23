@@ -1,4 +1,4 @@
-![Cover](https://github.com/FrederickChenot/FrederickChenot/master/img/francisHallé.jpg)
+![Cover](https://github.com/FrederickChenot/FrederickChenot/blob/main/img/francisHalle.jpg)
 
 ### Hi there 👋
 
