@@ -32,22 +32,22 @@
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </p>
 <p>
-	<a href="https://www.linkedin.com/in/frederick-chenot/" target="_blank"></a>
+	<a href="https://www.linkedin.com/in/frederick-chenot/" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
 ## Projects
 
 <p>
-	<a href="https://equilibrealimentaire.io/" target="_blank"></a>
+	<a href="https://equilibrealimentaire.io/" target="_blank">
 	<img src="https://img.shields.io/badge/Equilibre Alimentaire-9C27B0?style=for-the-badge&logo=About.me&logoColor=white"> 
 </p>
 <p>
-	<a href="https://ovol.netlify.app/trackslist/" target="_blank"></a>
+	<a href="https://ovol.netlify.app/trackslist/" target="_blank">
 	<img src="https://img.shields.io/badge/O'vol projet fin d'etude / 5 etudiants pendant 5 semaines-007720?style=for-the-badge&logo=About.me&logoColor=white"> 
 </p>
 <p>
-	<a href="https://frederickchenot.github.io/" target="_blank"></a>
+	<a href="https://frederickchenot.github.io/" target="_blank">
 	<img src="https://img.shields.io/badge/PortFolio-0E222B?style=for-the-badge&logo=about.me&logoColor=white"> 
 </p>
 
