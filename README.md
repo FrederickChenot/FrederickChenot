@@ -1,5 +1,4 @@
 
-![Cover](https://github.com/FrederickChenot/FrederickChenot/blob/main/img/francisHalle.jpg)
 <p >
 	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{FrederickChenot}1212%2Fhit-counter"> 
 </p>
@@ -10,7 +9,7 @@
 	<img src="https://media.giphy.com/media/E8BKRmebpiire/giphy.gif" width="80" height="80"> 
 </p>
 
-## I use techno :grinning:
+## Various techs I use
 
 <p >
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -27,25 +26,29 @@
 
 </p>
 
-## Pour me contacter :
+## Where to find me
 <p >
 	<a href="mailto:fredchenot@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </p>
 <p>
-	<a href="https://www.linkedin.com/in/frederick-chenot/">
+	<a href="https://www.linkedin.com/in/frederick-chenot/" target="blank">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
-## Mes réalisations :
+
+## Projects
+
 <p>
-	<a href="https://equilibrealimentaire.io/">
+	<a href="https://equilibrealimentaire.io/" target="blank">
 	<img src="https://img.shields.io/badge/Equilibre Alimentaire-9C27B0?style=for-the-badge&logo=About.me&logoColor=white"> 
 </p>
 <p>
-	<a href="https://ovol.netlify.app/trackslist/">
+	<a href="https://ovol.netlify.app/trackslist/" target="blank">
 	<img src="https://img.shields.io/badge/O'vol projet fin d'etude / 5 etudiants pendant 5 semaines-007720?style=for-the-badge&logo=About.me&logoColor=white"> 
 </p>
 <p>
-	<a href="https://frederickchenot.github.io/">
+	<a href="https://frederickchenot.github.io/" target="blank">
 	<img src="https://img.shields.io/badge/PortFolio-0E222B?style=for-the-badge&logo=about.me&logoColor=white"> 
 </p>
+
+![Cover](https://github.com/FrederickChenot/FrederickChenot/blob/main/img/francisHalle.jpg)
