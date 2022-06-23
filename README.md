@@ -1,3 +1,4 @@
+![Cover](https://github.com/FrederickChenot/FrederickChenot/main/FrancisHallé.jpg)
 ### Hi there 👋
 
 <!--
